@@ -1,0 +1,31 @@
+{
+  "name": "gitmachines-www",
+  "version": "0.0.1-4",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.5",
+    "jade": "*",
+    "consolidate": "~0.9.1",
+    "ejs": "~0.8.4"
+  },
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlank/gitmachines-www"
+  },
+  "keywords": [
+    "website",
+    "gitmachines",
+    "express"
+  ],
+  "author": "John Lancaster",
+  "license": "MIT",
+  "subdomain": "jlank.gitmachines-www",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
