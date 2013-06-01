@@ -1,6 +1,6 @@
 {
   "name": "gitmachines-www",
-  "version": "0.0.1-7",
+  "version": "0.0.1-9",
   "private": true,
   "scripts": {
     "start": "node app.js"
@@ -11,8 +11,8 @@
   "dependencies": {
     "express": "3.2.5",
     "jade": "*",
-    "consolidate": "~0.9.1",
-    "ejs": "~0.8.4"
+    "consolidate": "0.9.1",
+    "ejs": "0.8.4"
   },
   "description": "ERROR: No README.md file found!",
   "main": "app.js",
